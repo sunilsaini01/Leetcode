@@ -11,7 +11,7 @@ This repository contains my solutions to LeetCode Data Structures and Algorithms
 
 
 # 🧠 Topics
-Arrays • Linked List • Trees • Graphs • DP • Greedy • Binary Search • Backtracking
+Arrays • Linked List • DP • Greedy • Binary Search • Backtracking
 
 # 🎯 Goal
 To improve problem-solving skills and build strong DSA fundamentals for interviews.
