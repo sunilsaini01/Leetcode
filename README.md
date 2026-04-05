@@ -6,13 +6,12 @@ Each problem is organized in its own folder:
 
 ```bash
 /1-two-sum
-/1013-fibonacci-number
-/121-best-time-to-buy-and-sell-stock
+/1013-palindrome-number
 ```
 
 Each folder includes:
 
-* C++ solution file
+* Python solution file
 * Readme
 
 
