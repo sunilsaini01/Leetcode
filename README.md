@@ -34,6 +34,7 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/sunilsaini01/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sunilsaini01/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 ## Database
 | Problem Name | Difficulty |
