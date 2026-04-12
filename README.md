@@ -36,10 +36,10 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sunilsaini01/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sunilsaini01/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0258-add-digits](https://github.com/sunilsaini01/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/sunilsaini01/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/sunilsaini01/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/sunilsaini01/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
-
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +55,12 @@ To improve problem-solving skills and build strong DSA fundamentals for intervie
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/sunilsaini01/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/sunilsaini01/Leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/sunilsaini01/Leetcode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/sunilsaini01/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
